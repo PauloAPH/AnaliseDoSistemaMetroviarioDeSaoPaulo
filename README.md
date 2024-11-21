@@ -2,6 +2,7 @@
 ## Autores: 
 - Paulo Alexandre Pizará Hayashida RA: 11201722652
 - Igor Ladeia de Freitas RA: 11201922180
+- Matheus Cardoso da Silva RA: 11201822485
 
  # **Análise do Sistema Metroviário de São Paulo**
 
