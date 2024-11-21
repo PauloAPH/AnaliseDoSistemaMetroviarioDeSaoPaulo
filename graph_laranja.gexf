@@ -209,7 +209,7 @@
       <edge source="Paraíso" target="Brigadeiro" id="12" weight="13" />
       <edge source="Vergueiro" target="São Joaquim" id="13" weight="3" />
       <edge source="São Joaquim" target="Liberdade" id="14" weight="8" />
-      <edge source="São Joaquim" target="Bela Vista" id="15" weight="38" />
+      <edge source="São Joaquim" target="Bela Vista" id="15" weight="32" />
       <edge source="Liberdade" target="Sé" id="16" weight="148" />
       <edge source="Sé" target="São Bento" id="17" weight="118" />
       <edge source="Sé" target="Anhangabaú" id="18" weight="149" />
@@ -265,8 +265,8 @@
       <edge source="Patriarca" target="Artur Alvim" id="68" weight="33" />
       <edge source="Artur Alvim" target="Corinthians-Itaquera" id="69" weight="18" />
       <edge source="Corinthians-Itaquera" target="Dom Bosco" id="70" weight="20" />
-      <edge source="Higienópolis-Mackenzie" target="FAAP-Pacaembu" id="71" weight="9" />
-      <edge source="Higienópolis-Mackenzie" target="14 Bis - Saracura" id="72" weight="18" />
+      <edge source="Higienópolis-Mackenzie" target="FAAP-Pacaembu" id="71" weight="7" />
+      <edge source="Higienópolis-Mackenzie" target="14 Bis - Saracura" id="72" weight="15" />
       <edge source="Oscar Freire" target="Fradique Coutinho" id="73" weight="6" />
       <edge source="Fradique Coutinho" target="Faria Lima" id="74" weight="18" />
       <edge source="Faria Lima" target="Pinheiros" id="75" weight="73" />
@@ -381,17 +381,17 @@
       <edge source="Sapopemba" target="Fazenda da Juta" id="184" weight="5" />
       <edge source="Fazenda da Juta" target="São Mateus" id="185" weight="12" />
       <edge source="São Mateus" target="Jardim Colonial" id="186" weight="6" />
-      <edge source="Brasilandia" target="Maristela" id="187" weight="42" />
-      <edge source="Maristela" target="Itaberaba-Hospital Vila Penteado" id="188" weight="33" />
-      <edge source="Itaberaba-Hospital Vila Penteado" target="João Paulo I" id="189" weight="23" />
-      <edge source="João Paulo I" target="Freguesia do Ó" id="190" weight="14" />
-      <edge source="Freguesia do Ó" target="Santa Marina" id="191" weight="4" />
-      <edge source="Santa Marina" target="Água Branca" id="192" weight="6" />
-      <edge source="Água Branca" target="SESC-Pompeia" id="193" weight="16" />
-      <edge source="SESC-Pompeia" target="Perdizes" id="194" weight="9" />
-      <edge source="Perdizes" target="PUC-Cardoso de Almeida" id="195" weight="11" />
+      <edge source="Brasilandia" target="Maristela" id="187" weight="36" />
+      <edge source="Maristela" target="Itaberaba-Hospital Vila Penteado" id="188" weight="28" />
+      <edge source="Itaberaba-Hospital Vila Penteado" target="João Paulo I" id="189" weight="20" />
+      <edge source="João Paulo I" target="Freguesia do Ó" id="190" weight="11" />
+      <edge source="Freguesia do Ó" target="Santa Marina" id="191" weight="3" />
+      <edge source="Santa Marina" target="Água Branca" id="192" weight="5" />
+      <edge source="Água Branca" target="SESC-Pompeia" id="193" weight="13" />
+      <edge source="SESC-Pompeia" target="Perdizes" id="194" weight="8" />
+      <edge source="Perdizes" target="PUC-Cardoso de Almeida" id="195" weight="9" />
       <edge source="PUC-Cardoso de Almeida" target="FAAP-Pacaembu" id="196" weight="1" />
-      <edge source="14 Bis - Saracura" target="Bela Vista" id="197" weight="28" />
+      <edge source="14 Bis - Saracura" target="Bela Vista" id="197" weight="24" />
     </edges>
   </graph>
 </gexf>
