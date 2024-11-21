@@ -1,0 +1,397 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.2draft http://www.gexf.net/1.2draft/gexf.xsd" version="1.2">
+  <meta lastmodifieddate="2024-11-21">
+    <creator>NetworkX 3.4.2</creator>
+  </meta>
+  <graph defaultedgetype="undirected" mode="static" name="">
+    <nodes>
+      <node id="Jabaquara" label="Jabaquara" />
+      <node id="Conceição" label="Conceição" />
+      <node id="São Judas" label="São Judas" />
+      <node id="Saúde" label="Saúde" />
+      <node id="Praça da Árvore" label="Praça da Árvore" />
+      <node id="Santa Cruz" label="Santa Cruz" />
+      <node id="Vila Mariana" label="Vila Mariana" />
+      <node id="Ana Rosa" label="Ana Rosa" />
+      <node id="Paraíso" label="Paraíso" />
+      <node id="Vergueiro" label="Vergueiro" />
+      <node id="São Joaquim" label="São Joaquim" />
+      <node id="Liberdade" label="Liberdade" />
+      <node id="Sé" label="Sé" />
+      <node id="São Bento" label="São Bento" />
+      <node id="Luz" label="Luz" />
+      <node id="Tiradentes" label="Tiradentes" />
+      <node id="Armênia" label="Armênia" />
+      <node id="Portuguesa-Tietê" label="Portuguesa-Tietê" />
+      <node id="Carandiru" label="Carandiru" />
+      <node id="Santana" label="Santana" />
+      <node id="Jardim São Paulo-Ayrton Senna" label="Jardim São Paulo-Ayrton Senna" />
+      <node id="Parada Inglesa" label="Parada Inglesa" />
+      <node id="Tucuruvi" label="Tucuruvi" />
+      <node id="Vila Madalena" label="Vila Madalena" />
+      <node id="Santuário Nossa Senhora de Fátima-Sumaré" label="Santuário Nossa Senhora de Fátima-Sumaré" />
+      <node id="Clínicas" label="Clínicas" />
+      <node id="Paulista-Consolação" label="Paulista-Consolação" />
+      <node id="Trianon-Masp" label="Trianon-Masp" />
+      <node id="Brigadeiro" label="Brigadeiro" />
+      <node id="Chácara Klabin" label="Chácara Klabin" />
+      <node id="Santos-Imigrantes" label="Santos-Imigrantes" />
+      <node id="Alto do Ipiranga" label="Alto do Ipiranga" />
+      <node id="Sacoma" label="Sacoma" />
+      <node id="Tamanduatei" label="Tamanduatei" />
+      <node id="Vila Prudente" label="Vila Prudente" />
+      <node id="Palmeiras-Barra Funda" label="Palmeiras-Barra Funda" />
+      <node id="Marechal Deodoro" label="Marechal Deodoro" />
+      <node id="Santa Cecília" label="Santa Cecília" />
+      <node id="República" label="República" />
+      <node id="Anhangabaú" label="Anhangabaú" />
+      <node id="Pedro II" label="Pedro II" />
+      <node id="Brás" label="Brás" />
+      <node id="Bresser-Mooca" label="Bresser-Mooca" />
+      <node id="Belém" label="Belém" />
+      <node id="Tatuapé" label="Tatuapé" />
+      <node id="Carrão-Assaí Atacadista" label="Carrão-Assaí Atacadista" />
+      <node id="Penha" label="Penha" />
+      <node id="Vila Matilde" label="Vila Matilde" />
+      <node id="Guilhermina-Esperança" label="Guilhermina-Esperança" />
+      <node id="Patriarca" label="Patriarca" />
+      <node id="Artur Alvim" label="Artur Alvim" />
+      <node id="Corinthians-Itaquera" label="Corinthians-Itaquera" />
+      <node id="Higienópolis-Mackenzie" label="Higienópolis-Mackenzie" />
+      <node id="Oscar Freire" label="Oscar Freire" />
+      <node id="Fradique Coutinho" label="Fradique Coutinho" />
+      <node id="Faria Lima" label="Faria Lima" />
+      <node id="Pinheiros" label="Pinheiros" />
+      <node id="Butantã" label="Butantã" />
+      <node id="São Paulo-Morumbi" label="São Paulo-Morumbi" />
+      <node id="Vila Sônia" label="Vila Sônia" />
+      <node id="Capão Redondo" label="Capão Redondo" />
+      <node id="Campo Limpo" label="Campo Limpo" />
+      <node id="Vila das Belezas" label="Vila das Belezas" />
+      <node id="Giovanni Gronchi" label="Giovanni Gronchi" />
+      <node id="Santo Amaro" label="Santo Amaro" />
+      <node id="Largo Treze" label="Largo Treze" />
+      <node id="Adolfo Pinheiro" label="Adolfo Pinheiro" />
+      <node id="Alto da Boa Vista" label="Alto da Boa Vista" />
+      <node id="Borba Gato" label="Borba Gato" />
+      <node id="Brooklin" label="Brooklin" />
+      <node id="Campo Belo" label="Campo Belo" />
+      <node id="Eucaliptos" label="Eucaliptos" />
+      <node id="Moema" label="Moema" />
+      <node id="AACD-Servidor" label="AACD-Servidor" />
+      <node id="Hospital São Paulo" label="Hospital São Paulo" />
+      <node id="Agua Branca" label="Agua Branca" />
+      <node id="Lapa R" label="Lapa R" />
+      <node id="Piqueri" label="Piqueri" />
+      <node id="Pirituba" label="Pirituba" />
+      <node id="Vila Clarice" label="Vila Clarice" />
+      <node id="Jaraguá" label="Jaraguá" />
+      <node id="Vila Aurora" label="Vila Aurora" />
+      <node id="Perus" label="Perus" />
+      <node id="Caieiras" label="Caieiras" />
+      <node id="Franco da Rocha" label="Franco da Rocha" />
+      <node id="Baltazar Fidélis" label="Baltazar Fidélis" />
+      <node id="Francisco Morato" label="Francisco Morato" />
+      <node id="Botujuru" label="Botujuru" />
+      <node id="Campo Limpo Paulista" label="Campo Limpo Paulista" />
+      <node id="Várzea Paulista" label="Várzea Paulista" />
+      <node id="Jundiaí" label="Jundiaí" />
+      <node id="Armador Bueno" label="Armador Bueno" />
+      <node id="Santa Rita" label="Santa Rita" />
+      <node id="Itapevi" label="Itapevi" />
+      <node id="Eng Cardoso" label="Eng Cardoso" />
+      <node id="Sangrado Coração" label="Sangrado Coração" />
+      <node id="Jandira" label="Jandira" />
+      <node id="Jardim Silveira" label="Jardim Silveira" />
+      <node id="Jardim Belval" label="Jardim Belval" />
+      <node id="Barueri" label="Barueri" />
+      <node id="Antonio João" label="Antonio João" />
+      <node id="Santa Terezinha" label="Santa Terezinha" />
+      <node id="Carapicuiba" label="Carapicuiba" />
+      <node id="General Miguel Costa" label="General Miguel Costa" />
+      <node id="Quitauna" label="Quitauna" />
+      <node id="Comandante Sampaio" label="Comandante Sampaio" />
+      <node id="Osasco" label="Osasco" />
+      <node id="Presidente Altino" label="Presidente Altino" />
+      <node id="Imperatriz Leopoldina" label="Imperatriz Leopoldina" />
+      <node id="Domingos Moraes" label="Domingos Moraes" />
+      <node id="Lapa D" label="Lapa D" />
+      <node id="Julio Prestes" label="Julio Prestes" />
+      <node id="Ceasa" label="Ceasa" />
+      <node id="Villa Lobos–Jaguaré" label="Villa Lobos–Jaguaré" />
+      <node id="Cidade Universitária" label="Cidade Universitária" />
+      <node id="Hebraica–Rebouças" label="Hebraica–Rebouças" />
+      <node id="Cidade Jardim" label="Cidade Jardim" />
+      <node id="Vila Olímpia" label="Vila Olímpia" />
+      <node id="Berrini" label="Berrini" />
+      <node id="Morumbi" label="Morumbi" />
+      <node id="Granja Julieta" label="Granja Julieta" />
+      <node id="João Dias" label="João Dias" />
+      <node id="Socorro" label="Socorro" />
+      <node id="Jurubatuba" label="Jurubatuba" />
+      <node id="Autódromo" label="Autódromo" />
+      <node id="Primavera–Interlagos" label="Primavera–Interlagos" />
+      <node id="Grajaú" label="Grajaú" />
+      <node id="Bruno Covas/Mendes–Vila Natal" label="Bruno Covas/Mendes–Vila Natal" />
+      <node id="Varginha" label="Varginha" />
+      <node id="Juventude–Mooca" label="Juventude–Mooca" />
+      <node id="Ipiranga" label="Ipiranga" />
+      <node id="São Caetano" label="São Caetano" />
+      <node id="Utinga" label="Utinga" />
+      <node id="Prefeito Saladino" label="Prefeito Saladino" />
+      <node id="Santo André" label="Santo André" />
+      <node id="Capuava" label="Capuava" />
+      <node id="Mauá" label="Mauá" />
+      <node id="Guapituba" label="Guapituba" />
+      <node id="Ribeirão Pires" label="Ribeirão Pires" />
+      <node id="Rio Grande da Serra" label="Rio Grande da Serra" />
+      <node id="Dom Bosco" label="Dom Bosco" />
+      <node id="José Bonifácio" label="José Bonifácio" />
+      <node id="Guaianases" label="Guaianases" />
+      <node id="Antonio Gianetti Neto" label="Antonio Gianetti Neto" />
+      <node id="Ferraz de Vasconcelos" label="Ferraz de Vasconcelos" />
+      <node id="Poá" label="Poá" />
+      <node id="Calmon Viana" label="Calmon Viana" />
+      <node id="Suzano" label="Suzano" />
+      <node id="Jundiapeba" label="Jundiapeba" />
+      <node id="Bras Cubas" label="Bras Cubas" />
+      <node id="Mogi das Cruzes" label="Mogi das Cruzes" />
+      <node id="Estudantes" label="Estudantes" />
+      <node id="Engenheiro Goulart" label="Engenheiro Goulart" />
+      <node id="USP Leste" label="USP Leste" />
+      <node id="Comendador Ermelino" label="Comendador Ermelino" />
+      <node id="São Miguel Paulista" label="São Miguel Paulista" />
+      <node id="Jardim Helena-Vila Mara" label="Jardim Helena-Vila Mara" />
+      <node id="Itaim Paulista" label="Itaim Paulista" />
+      <node id="Jardim Romano" label="Jardim Romano" />
+      <node id="Engenheiro Manoel Feio" label="Engenheiro Manoel Feio" />
+      <node id="Itaquaquecetuba" label="Itaquaquecetuba" />
+      <node id="Aracaré" label="Aracaré" />
+      <node id="Guarulhos–Cecap" label="Guarulhos–Cecap" />
+      <node id="Aeroporto-Guarulhos" label="Aeroporto-Guarulhos" />
+      <node id="Oratório" label="Oratório" />
+      <node id="São Lucas" label="São Lucas" />
+      <node id="Camilo Haddad" label="Camilo Haddad" />
+      <node id="Vila Tolstói" label="Vila Tolstói" />
+      <node id="Vila União" label="Vila União" />
+      <node id="Jardim Planalto" label="Jardim Planalto" />
+      <node id="Sapopemba" label="Sapopemba" />
+      <node id="Fazenda da Juta" label="Fazenda da Juta" />
+      <node id="São Mateus" label="São Mateus" />
+      <node id="Jardim Colonial" label="Jardim Colonial" />
+      <node id="Brasilandia" label="Brasilandia" />
+      <node id="Maristela" label="Maristela" />
+      <node id="Itaberaba-Hospital Vila Penteado" label="Itaberaba-Hospital Vila Penteado" />
+      <node id="João Paulo I" label="João Paulo I" />
+      <node id="Freguesia do Ó" label="Freguesia do Ó" />
+      <node id="Santa Marina" label="Santa Marina" />
+      <node id="Água Branca" label="Água Branca" />
+      <node id="SESC-Pompeia" label="SESC-Pompeia" />
+      <node id="Perdizes" label="Perdizes" />
+      <node id="PUC-Cardoso de Almeida" label="PUC-Cardoso de Almeida" />
+      <node id="FAAP-Pacaembu" label="FAAP-Pacaembu" />
+      <node id="14 Bis - Saracura" label="14 Bis - Saracura" />
+      <node id="Bela Vista" label="Bela Vista" />
+    </nodes>
+    <edges>
+      <edge source="Jabaquara" target="Conceição" id="0" weight="39.0" />
+      <edge source="Conceição" target="São Judas" id="1" weight="14" />
+      <edge source="São Judas" target="Saúde" id="2" weight="11" />
+      <edge source="Saúde" target="Praça da Árvore" id="3" weight="11" />
+      <edge source="Praça da Árvore" target="Santa Cruz" id="4" weight="78" />
+      <edge source="Santa Cruz" target="Vila Mariana" id="5" weight="73" />
+      <edge source="Santa Cruz" target="Hospital São Paulo" id="6" weight="54" />
+      <edge source="Santa Cruz" target="Chácara Klabin" id="7" weight="25" />
+      <edge source="Vila Mariana" target="Ana Rosa" id="8" weight="57" />
+      <edge source="Ana Rosa" target="Paraíso" id="9" weight="3" />
+      <edge source="Ana Rosa" target="Chácara Klabin" id="10" weight="23" />
+      <edge source="Paraíso" target="Vergueiro" id="11" weight="70" />
+      <edge source="Paraíso" target="Brigadeiro" id="12" weight="13" />
+      <edge source="Vergueiro" target="São Joaquim" id="13" weight="3" />
+      <edge source="São Joaquim" target="Liberdade" id="14" weight="8" />
+      <edge source="São Joaquim" target="Bela Vista" id="15" weight="38" />
+      <edge source="Liberdade" target="Sé" id="16" weight="148" />
+      <edge source="Sé" target="São Bento" id="17" weight="118" />
+      <edge source="Sé" target="Anhangabaú" id="18" weight="149" />
+      <edge source="Sé" target="Pedro II" id="19" weight="184" />
+      <edge source="São Bento" target="Luz" id="20" weight="78" />
+      <edge source="Luz" target="Tiradentes" id="21" weight="114" />
+      <edge source="Luz" target="República" id="22" weight="37" />
+      <edge source="Luz" target="Palmeiras-Barra Funda" id="23" weight="71" />
+      <edge source="Luz" target="Brás" id="24" weight="22" />
+      <edge source="Tiradentes" target="Armênia" id="25" weight="4" />
+      <edge source="Armênia" target="Portuguesa-Tietê" id="26" weight="25" />
+      <edge source="Portuguesa-Tietê" target="Carandiru" id="27" weight="33" />
+      <edge source="Carandiru" target="Santana" id="28" weight="37" />
+      <edge source="Santana" target="Jardim São Paulo-Ayrton Senna" id="29" weight="37" />
+      <edge source="Jardim São Paulo-Ayrton Senna" target="Parada Inglesa" id="30" weight="2" />
+      <edge source="Parada Inglesa" target="Tucuruvi" id="31" weight="42" />
+      <edge source="Vila Madalena" target="Santuário Nossa Senhora de Fátima-Sumaré" id="32" weight="11" />
+      <edge source="Santuário Nossa Senhora de Fátima-Sumaré" target="Clínicas" id="33" weight="11" />
+      <edge source="Clínicas" target="Paulista-Consolação" id="34" weight="76" />
+      <edge source="Paulista-Consolação" target="Trianon-Masp" id="35" weight="51" />
+      <edge source="Paulista-Consolação" target="Higienópolis-Mackenzie" id="36" weight="83" />
+      <edge source="Paulista-Consolação" target="Oscar Freire" id="37" weight="86" />
+      <edge source="Trianon-Masp" target="Brigadeiro" id="38" weight="3" />
+      <edge source="Chácara Klabin" target="Santos-Imigrantes" id="39" weight="67" />
+      <edge source="Santos-Imigrantes" target="Alto do Ipiranga" id="40" weight="3" />
+      <edge source="Alto do Ipiranga" target="Sacoma" id="41" weight="22" />
+      <edge source="Sacoma" target="Tamanduatei" id="42" weight="34" />
+      <edge source="Tamanduatei" target="Vila Prudente" id="43" weight="2" />
+      <edge source="Tamanduatei" target="Ipiranga" id="44" weight="46" />
+      <edge source="Tamanduatei" target="São Caetano" id="45" weight="33" />
+      <edge source="Vila Prudente" target="Oratório" id="46" weight="51" />
+      <edge source="Palmeiras-Barra Funda" target="Marechal Deodoro" id="47" weight="109" />
+      <edge source="Palmeiras-Barra Funda" target="Agua Branca" id="48" weight="104" />
+      <edge source="Palmeiras-Barra Funda" target="Lapa D" id="49" weight="75" />
+      <edge source="Palmeiras-Barra Funda" target="Julio Prestes" id="50" weight="91" />
+      <edge source="Marechal Deodoro" target="Santa Cecília" id="51" weight="3" />
+      <edge source="Santa Cecília" target="República" id="52" weight="96" />
+      <edge source="República" target="Anhangabaú" id="53" weight="68" />
+      <edge source="República" target="Higienópolis-Mackenzie" id="54" weight="791" />
+      <edge source="Pedro II" target="Brás" id="55" weight="56" />
+      <edge source="Brás" target="Bresser-Mooca" id="56" weight="41" />
+      <edge source="Brás" target="Juventude–Mooca" id="57" weight="17" />
+      <edge source="Brás" target="Tatuapé" id="58" weight="19" />
+      <edge source="Bresser-Mooca" target="Belém" id="59" weight="6" />
+      <edge source="Belém" target="Tatuapé" id="60" weight="42" />
+      <edge source="Tatuapé" target="Carrão-Assaí Atacadista" id="61" weight="31" />
+      <edge source="Tatuapé" target="Corinthians-Itaquera" id="62" weight="31" />
+      <edge source="Tatuapé" target="Engenheiro Goulart" id="63" weight="16" />
+      <edge source="Carrão-Assaí Atacadista" target="Penha" id="64" weight="20" />
+      <edge source="Penha" target="Vila Matilde" id="65" weight="1" />
+      <edge source="Vila Matilde" target="Guilhermina-Esperança" id="66" weight="5" />
+      <edge source="Guilhermina-Esperança" target="Patriarca" id="67" weight="1" />
+      <edge source="Patriarca" target="Artur Alvim" id="68" weight="33" />
+      <edge source="Artur Alvim" target="Corinthians-Itaquera" id="69" weight="18" />
+      <edge source="Corinthians-Itaquera" target="Dom Bosco" id="70" weight="20" />
+      <edge source="Higienópolis-Mackenzie" target="FAAP-Pacaembu" id="71" weight="9" />
+      <edge source="Higienópolis-Mackenzie" target="14 Bis - Saracura" id="72" weight="18" />
+      <edge source="Oscar Freire" target="Fradique Coutinho" id="73" weight="6" />
+      <edge source="Fradique Coutinho" target="Faria Lima" id="74" weight="18" />
+      <edge source="Faria Lima" target="Pinheiros" id="75" weight="73" />
+      <edge source="Pinheiros" target="Butantã" id="76" weight="69" />
+      <edge source="Pinheiros" target="Cidade Universitária" id="77" weight="98" />
+      <edge source="Pinheiros" target="Hebraica–Rebouças" id="78" weight="96" />
+      <edge source="Butantã" target="São Paulo-Morumbi" id="79" weight="13" />
+      <edge source="São Paulo-Morumbi" target="Vila Sônia" id="80" weight="24" />
+      <edge source="Capão Redondo" target="Campo Limpo" id="81" weight="58" />
+      <edge source="Campo Limpo" target="Vila das Belezas" id="82" weight="23" />
+      <edge source="Vila das Belezas" target="Giovanni Gronchi" id="83" weight="8" />
+      <edge source="Giovanni Gronchi" target="Santo Amaro" id="84" weight="70" />
+      <edge source="Santo Amaro" target="Largo Treze" id="85" weight="58" />
+      <edge source="Santo Amaro" target="João Dias" id="86" weight="79" />
+      <edge source="Santo Amaro" target="Socorro" id="87" weight="77" />
+      <edge source="Largo Treze" target="Adolfo Pinheiro" id="88" weight="23" />
+      <edge source="Adolfo Pinheiro" target="Alto da Boa Vista" id="89" weight="7" />
+      <edge source="Alto da Boa Vista" target="Borba Gato" id="90" weight="6" />
+      <edge source="Borba Gato" target="Brooklin" id="91" weight="6" />
+      <edge source="Brooklin" target="Campo Belo" id="92" weight="4" />
+      <edge source="Campo Belo" target="Eucaliptos" id="93" weight="5" />
+      <edge source="Eucaliptos" target="Moema" id="94" weight="2" />
+      <edge source="Moema" target="AACD-Servidor" id="95" weight="9" />
+      <edge source="AACD-Servidor" target="Hospital São Paulo" id="96" weight="1" />
+      <edge source="Agua Branca" target="Lapa R" id="97" weight="18" />
+      <edge source="Lapa R" target="Piqueri" id="98" weight="7" />
+      <edge source="Piqueri" target="Pirituba" id="99" weight="6" />
+      <edge source="Pirituba" target="Vila Clarice" id="100" weight="10" />
+      <edge source="Vila Clarice" target="Jaraguá" id="101" weight="11" />
+      <edge source="Jaraguá" target="Vila Aurora" id="102" weight="6" />
+      <edge source="Vila Aurora" target="Perus" id="103" weight="10" />
+      <edge source="Perus" target="Caieiras" id="104" weight="8" />
+      <edge source="Caieiras" target="Franco da Rocha" id="105" weight="3" />
+      <edge source="Franco da Rocha" target="Baltazar Fidélis" id="106" weight="12" />
+      <edge source="Baltazar Fidélis" target="Francisco Morato" id="107" weight="13" />
+      <edge source="Francisco Morato" target="Botujuru" id="108" weight="36" />
+      <edge source="Botujuru" target="Campo Limpo Paulista" id="109" weight="1" />
+      <edge source="Campo Limpo Paulista" target="Várzea Paulista" id="110" weight="1" />
+      <edge source="Várzea Paulista" target="Jundiaí" id="111" weight="328" />
+      <edge source="Armador Bueno" target="Santa Rita" id="112" weight="2" />
+      <edge source="Santa Rita" target="Itapevi" id="113" weight="2" />
+      <edge source="Itapevi" target="Eng Cardoso" id="114" weight="22" />
+      <edge source="Eng Cardoso" target="Sangrado Coração" id="115" weight="19" />
+      <edge source="Sangrado Coração" target="Jandira" id="116" weight="7" />
+      <edge source="Jandira" target="Jardim Silveira" id="117" weight="6" />
+      <edge source="Jardim Silveira" target="Jardim Belval" id="118" weight="3" />
+      <edge source="Jardim Belval" target="Barueri" id="119" weight="18" />
+      <edge source="Barueri" target="Antonio João" id="120" weight="8" />
+      <edge source="Antonio João" target="Santa Terezinha" id="121" weight="12" />
+      <edge source="Santa Terezinha" target="Carapicuiba" id="122" weight="23" />
+      <edge source="Carapicuiba" target="General Miguel Costa" id="123" weight="11" />
+      <edge source="General Miguel Costa" target="Quitauna" id="124" weight="9" />
+      <edge source="Quitauna" target="Comandante Sampaio" id="125" weight="4" />
+      <edge source="Comandante Sampaio" target="Osasco" id="126" weight="27" />
+      <edge source="Osasco" target="Presidente Altino" id="127" weight="13" />
+      <edge source="Presidente Altino" target="Imperatriz Leopoldina" id="128" weight="8" />
+      <edge source="Presidente Altino" target="Ceasa" id="129" weight="2" />
+      <edge source="Imperatriz Leopoldina" target="Domingos Moraes" id="130" weight="2" />
+      <edge source="Domingos Moraes" target="Lapa D" id="131" weight="2" />
+      <edge source="Ceasa" target="Villa Lobos–Jaguaré" id="132" weight="6" />
+      <edge source="Villa Lobos–Jaguaré" target="Cidade Universitária" id="133" weight="5" />
+      <edge source="Hebraica–Rebouças" target="Cidade Jardim" id="134" weight="6" />
+      <edge source="Cidade Jardim" target="Vila Olímpia" id="135" weight="15" />
+      <edge source="Vila Olímpia" target="Berrini" id="136" weight="12" />
+      <edge source="Berrini" target="Morumbi" id="137" weight="4" />
+      <edge source="Morumbi" target="Granja Julieta" id="138" weight="10" />
+      <edge source="Granja Julieta" target="João Dias" id="139" weight="5" />
+      <edge source="Socorro" target="Jurubatuba" id="140" weight="4" />
+      <edge source="Jurubatuba" target="Autódromo" id="141" weight="4" />
+      <edge source="Autódromo" target="Primavera–Interlagos" id="142" weight="5" />
+      <edge source="Primavera–Interlagos" target="Grajaú" id="143" weight="30" />
+      <edge source="Grajaú" target="Bruno Covas/Mendes–Vila Natal" id="144" weight="13" />
+      <edge source="Bruno Covas/Mendes–Vila Natal" target="Varginha" id="145" weight="33" />
+      <edge source="Juventude–Mooca" target="Ipiranga" id="146" weight="1" />
+      <edge source="São Caetano" target="Utinga" id="147" weight="16" />
+      <edge source="Utinga" target="Prefeito Saladino" id="148" weight="1" />
+      <edge source="Prefeito Saladino" target="Santo André" id="149" weight="37" />
+      <edge source="Santo André" target="Capuava" id="150" weight="38" />
+      <edge source="Capuava" target="Mauá" id="151" weight="1" />
+      <edge source="Mauá" target="Guapituba" id="152" weight="32" />
+      <edge source="Guapituba" target="Ribeirão Pires" id="153" weight="6" />
+      <edge source="Ribeirão Pires" target="Rio Grande da Serra" id="154" weight="5" />
+      <edge source="Dom Bosco" target="José Bonifácio" id="155" weight="1" />
+      <edge source="José Bonifácio" target="Guaianases" id="156" weight="594" />
+      <edge source="Guaianases" target="Antonio Gianetti Neto" id="157" weight="597" />
+      <edge source="Antonio Gianetti Neto" target="Ferraz de Vasconcelos" id="158" weight="10" />
+      <edge source="Ferraz de Vasconcelos" target="Poá" id="159" weight="11" />
+      <edge source="Poá" target="Calmon Viana" id="160" weight="5" />
+      <edge source="Calmon Viana" target="Suzano" id="161" weight="26" />
+      <edge source="Calmon Viana" target="Aracaré" id="162" weight="4" />
+      <edge source="Suzano" target="Jundiapeba" id="163" weight="25" />
+      <edge source="Jundiapeba" target="Bras Cubas" id="164" weight="1" />
+      <edge source="Bras Cubas" target="Mogi das Cruzes" id="165" weight="3" />
+      <edge source="Mogi das Cruzes" target="Estudantes" id="166" weight="3" />
+      <edge source="Engenheiro Goulart" target="USP Leste" id="167" weight="1" />
+      <edge source="Engenheiro Goulart" target="Guarulhos–Cecap" id="168" weight="3" />
+      <edge source="USP Leste" target="Comendador Ermelino" id="169" weight="2" />
+      <edge source="Comendador Ermelino" target="São Miguel Paulista" id="170" weight="7" />
+      <edge source="São Miguel Paulista" target="Jardim Helena-Vila Mara" id="171" weight="1" />
+      <edge source="Jardim Helena-Vila Mara" target="Itaim Paulista" id="172" weight="12" />
+      <edge source="Itaim Paulista" target="Jardim Romano" id="173" weight="10" />
+      <edge source="Jardim Romano" target="Engenheiro Manoel Feio" id="174" weight="8" />
+      <edge source="Engenheiro Manoel Feio" target="Itaquaquecetuba" id="175" weight="7" />
+      <edge source="Itaquaquecetuba" target="Aracaré" id="176" weight="10" />
+      <edge source="Guarulhos–Cecap" target="Aeroporto-Guarulhos" id="177" weight="5" />
+      <edge source="Oratório" target="São Lucas" id="178" weight="2" />
+      <edge source="São Lucas" target="Camilo Haddad" id="179" weight="1" />
+      <edge source="Camilo Haddad" target="Vila Tolstói" id="180" weight="1" />
+      <edge source="Vila Tolstói" target="Vila União" id="181" weight="1" />
+      <edge source="Vila União" target="Jardim Planalto" id="182" weight="4" />
+      <edge source="Jardim Planalto" target="Sapopemba" id="183" weight="1" />
+      <edge source="Sapopemba" target="Fazenda da Juta" id="184" weight="5" />
+      <edge source="Fazenda da Juta" target="São Mateus" id="185" weight="12" />
+      <edge source="São Mateus" target="Jardim Colonial" id="186" weight="6" />
+      <edge source="Brasilandia" target="Maristela" id="187" weight="42" />
+      <edge source="Maristela" target="Itaberaba-Hospital Vila Penteado" id="188" weight="33" />
+      <edge source="Itaberaba-Hospital Vila Penteado" target="João Paulo I" id="189" weight="23" />
+      <edge source="João Paulo I" target="Freguesia do Ó" id="190" weight="14" />
+      <edge source="Freguesia do Ó" target="Santa Marina" id="191" weight="4" />
+      <edge source="Santa Marina" target="Água Branca" id="192" weight="6" />
+      <edge source="Água Branca" target="SESC-Pompeia" id="193" weight="16" />
+      <edge source="SESC-Pompeia" target="Perdizes" id="194" weight="9" />
+      <edge source="Perdizes" target="PUC-Cardoso de Almeida" id="195" weight="11" />
+      <edge source="PUC-Cardoso de Almeida" target="FAAP-Pacaembu" id="196" weight="1" />
+      <edge source="14 Bis - Saracura" target="Bela Vista" id="197" weight="28" />
+    </edges>
+  </graph>
+</gexf>
